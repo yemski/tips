@@ -19,6 +19,6 @@ Required: The user can calculate the tip, using diferent percentages, and click 
 
 ![Video Walkthrough](tipster.gif)
 
-What did I miss?
 
-The GIF was created with LiceCap.
+
+
